@@ -15,4 +15,4 @@ o compilador exibiu uma mensagem de erro informando que o metodo main não foi e
 
 Q_7. Ao escrever todo o código com caracteres maiúsculos não foi possível compilar o arquivo para criar o arquivo.class pois a linguagem não aceita apenas palavras em caixa alta na sua sintaxe
 
-Q_8. Foi possível compilar o código com a o nome do arquivo diferente do dá classe principal porém não foi possível executar o arquivo, pois ocorreu um erro semelhante ao exibido na questão 4 não foi possível localizar nem carregar a classe principal.
+Q_8. Foi possível compilar o código com a o nome do arquivo diferente do dá classe principal porém não foi possível executar o arquivo, pois ocorreu um erro semelhante ao exibido na questão 4 não foi possível localizar nem carregar a classe principal, logo o mesmo não funcionou.
