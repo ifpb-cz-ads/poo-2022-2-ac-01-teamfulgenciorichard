@@ -18,17 +18,3 @@ o compilador exibiu uma mensagem de erro informando que o metodo main não foi e
 Q_7. Ao escrever todo o código com caracteres maiúsculos não foi possível compilar o arquivo para criar o arquivo.class pois a linguagem não aceita apenas palavras em caixa alta na sua sintaxe
 
 Q_8. Foi possível compilar o código com a o nome do arquivo diferente do dá classe principal porém não foi possível executar o arquivo, pois ocorreu um erro semelhante ao exibido na questão 4 não foi possível localizar nem carregar a classe principal, logo o mesmo não funcionou.
-
-
-### Questões da Segunda Semana
-
-Q_1.    a) (F) byte x = 300;
-        b) (V) short $mom = 43;
-        c) (F) int num = 2.5;
-        d) (V) double d = 20;
-        e) (V) char c = 25;
-        f) (F) boolean epar = (4%2=0)
-        g) (F) char nome = “Maria”;
-        h) (F) String b = “1”
-        i) (F) float x = 2.7;
-        j) (F) int a = false;
